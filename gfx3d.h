@@ -16,7 +16,7 @@
  - support for quads and triangles
  - optimized structures, saved some RAM and flash
  - added models
- - optimized starts displaying
+ - optimized stats displaying
  - fake light shading
 */
 
