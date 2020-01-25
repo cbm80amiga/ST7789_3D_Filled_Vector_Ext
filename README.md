@@ -10,7 +10,7 @@ https://youtu.be/YLf2WXjunyg
 - support for triangles
 - optimized the structures, saved some RAM and flash
 - new 3D models
-- optimized starts displaying, can be turned off completely for real speed experience
+- optimized the statistics displaying, can be turned off completely for real speed experience
 - added fake light shading
 - support for 240x240 ST7789 IPS LCD (uses 16 lines render buffer instead of 32 like in case of ST7735)
 
